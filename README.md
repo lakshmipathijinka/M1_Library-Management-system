@@ -37,9 +37,9 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 |6_ImagesandVideos|All the images and program execution video|
 
 # ISSUE TRACKING
-|ID|NAME|FEATURES|ISSUES RAISED|ISSUES RESOLVED|TOTAL TESTCASES|TOTAL TESTCASES PASSED|
-|:----|:---|:-------|:------------|:--------------|:--------------|:---------------------|
-|99005627|lakshmipathi|LIBRARY MANAGEMENT SYSTEM(ADD,SEARCH,ISSUE,DEL,VIEW)|3|3|5|5|
+|NAME|FEATURES|ISSUES RAISED|ISSUES RESOLVED|TOTAL TESTCASES|TOTAL TESTCASES PASSED|
+|:----|:---|:-------|:------------|:--------------|:--------------|
+|lakshmipathi|LIBRARY MANAGEMENT SYSTEM(ADD,SEARCH,ISSUE,DEL,VIEW)|3|3|5|5|
 
 # Challenges Faced and How Was It Overcome
 1.I have faced issues in file handling. so, I used strings.
